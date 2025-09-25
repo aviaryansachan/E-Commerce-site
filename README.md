@@ -9,6 +9,6 @@
 - Redux Toolkit
 
 ## Link 
--  htttps://r-shop-commerce.netlify.app/
+-  https://r-shop-commerce.netlify.app/
 
 
